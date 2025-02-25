@@ -1382,6 +1382,33 @@ blockquote {
   }
 }
 
+<<<<<<< HEAD
+=======
+#w-node-c4c41e36-5a5c-30f5-4f18-497c5317ab33-61b799b9, #w-node-_0e1a0175-6c10-4027-7868-3530600115b1-61b799b9, #w-node-d57c20c3-16f0-2440-1023-a4b254d24e48-61b799b9, #w-node-c4c41e36-5a5c-30f5-4f18-497c5317ab36-61b799b9 {
+  place-self: center end;
+}
+
+#email-2.w-node-dc066b25-c74c-b974-d1d6-8bba2844dc2f-61b799b9 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-f5fb2b9a-d1fd-4d3c-e745-935143ea94de-61b799b9 {
+  place-self: center end;
+}
+
+#Phone.w-node-_8d024455-180a-fa2e-e56a-e182211833b3-61b799b9 {
+  align-self: center;
+}
+
+#w-node-_57a5d6ad-5454-a8de-9d0a-9ddda74270fe-61b799b9 {
+  place-self: start end;
+}
+
+#w-node-c4c41e36-5a5c-30f5-4f18-497c5317ab39-61b799b9 {
+  grid-area: 7 / 2 / 8 / 2;
+}
+
+>>>>>>> c5aa77a99b561742c04ed16a740e2724d5c88ea8
 
 @font-face {
   font-family: 'Spacemono';
